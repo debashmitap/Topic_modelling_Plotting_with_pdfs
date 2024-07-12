@@ -1,2 +1,5 @@
-# Topic_modelling_Plotting_with_pdfs
-A python script to read a folder with pdfs and plots the percentage of times a certain topic has been discussed  in the pdfs.
+# Topic modelling and plotting with pdfs
+
+The input path to the folder containing the pdf files should be passed as a command line parameter in the terminal by following this command:
+
+-f filepath
